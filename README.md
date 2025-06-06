@@ -8,7 +8,7 @@ Cek apakah nomor HP sudah terdaftar di e-wallet:
 
 ## 📦 Cara Instal di Termux
 ```bash
-git clone https://github.com/username/cek-ewallet
+git clone https://github.com/dapztzy5912/cek-ewallet.git
 cd cek-ewallet
 bash install.sh
 python cek_ewallet.py
